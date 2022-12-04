@@ -187,13 +187,13 @@ https://github.com/headshot2017/OpenLara
 	* [Backwards long-jumpinng in *Tomb Raider 1*](https://www.youtube.com/watch?v=BIyfljf-qP0)
 	* [*Tomb Raider 2*](https://www.youtube.com/watch?v=-fM1_9LwO-Y)
 
-### *Mario in DDNet* [Headshotnoby](https://www.youtube.com/@Headshotnoby/featured)
+### *Mario in DDNet* by [Headshotnoby](https://www.youtube.com/@Headshotnoby/featured)
 
 https://github.com/headshot2017/ddnet-sm64
 
 * [Demonstration video](https://www.reddit.com/r/SM64inOtherGames/comments/xz7w5a/mario_in_teeworlds_ddnet_sort_of/)
 
-### *Mario in GZDoom* [Headshotnoby](https://www.youtube.com/@Headshotnoby/featured)
+### *Mario in GZDoom* by [Headshotnoby](https://www.youtube.com/@Headshotnoby/featured)
 
 https://github.com/headshot2017/gzdoom-sm64
 
