@@ -91,7 +91,7 @@ https://github.com/libsm64/libsm64-unity
 
 https://github.com/Brawmario/libsm64-godot
 
-> Addon that binds the libsm64 to godot via GDExtention, allowing to integrate mario into any Godot 4 project.
+> Addon that binds the libsm64 to Godot via GDExtention, allowing to integrate Mario into any Godot 4 project.
 
 ![Mario standing in a a Godot project](https://camo.githubusercontent.com/14c3e1a60b43baa038aff0a347408aeb3824ba3b1f18a7bb7ddfcd6dc8e61d20/68747470733a2f2f692e696d6775722e636f6d2f6c38714f6e61642e706e67)
 
@@ -116,7 +116,7 @@ https://github.com/LunaRyuko/SMUE5
 
 ## Mods
 
-### *Sonic Generations* (SM64 Generations)
+### *Sonic Generations* (SM64 Generations) by [Skyth](https://twitter.com/bsthlc)
 
 https://gamebanana.com/mods/368411
 
@@ -128,7 +128,7 @@ https://gamebanana.com/mods/368411
 	* https://twitter.com/bsthlc/status/1510019517455421443
 	* https://twitter.com/bsthlc/status/1513232941849235457
 
-### *Minecraft* (Retro64)
+### *Minecraft* (Retro64) by [Dylan](https://twitter.com/pdxdylan)
 
 https://retro64mod.github.io/
 
@@ -145,7 +145,7 @@ https://retro64mod.github.io/
 	* https://twitter.com/pdxdylan/status/1507759898637090827
 	* https://twitter.com/pdxdylan/status/1532006436703715331
 
-### *Rocket League* (Supersonic Mario)
+### *Rocket League* (Supersonic Mario) by [Serialbocks](https://twitter.com/Serialbocks)
 
 > Supersonic Mario puts Mario from Super Mario 64 into Rocket League.
 
@@ -155,7 +155,7 @@ https://retro64mod.github.io/
 	* https://twitter.com/SerialBocks/status/1521890993162924040
 	* https://twitter.com/SerialBocks/status/1559620715694985216
 
-### *Garry's Mod* (G64)
+### *Garry's Mod* (G64) by [ckosmic](https://twitter.com/_ckosmic)
 
 https://github.com/ckosmic/g64
 
@@ -167,7 +167,7 @@ https://github.com/ckosmic/g64
 * [Installer](https://github.com/ckosmic/G64Installer)
 * [Auto-updater](https://github.com/ckosmic/g64_autoupdater)
 
-### *ClassiCube* (Classic64)
+### *ClassiCube* (Classic64) by [Headshotnoby](https://www.youtube.com/@Headshotnoby/featured)
 
 https://github.com/headshot2017/Classic64
 
@@ -175,7 +175,7 @@ https://github.com/headshot2017/Classic64
 
 * [Release trailer](https://www.youtube.com/watch?v=rw1hbkJeqJQ)
 
-### *OpenLara*
+### *OpenLara SM64* by [Headshotnoby](https://www.youtube.com/@Headshotnoby/featured)
 
 https://github.com/headshot2017/OpenLara
 
@@ -187,13 +187,13 @@ https://github.com/headshot2017/OpenLara
 	* [Backwards long-jumpinng in *Tomb Raider 1*](https://www.youtube.com/watch?v=BIyfljf-qP0)
 	* [*Tomb Raider 2*](https://www.youtube.com/watch?v=-fM1_9LwO-Y)
 
-### *DDNet*
+### *Mario in DDNet* [Headshotnoby](https://www.youtube.com/@Headshotnoby/featured)
 
 https://github.com/headshot2017/ddnet-sm64
 
 * [Demonstration video](https://www.reddit.com/r/SM64inOtherGames/comments/xz7w5a/mario_in_teeworlds_ddnet_sort_of/)
 
-### *GZDoom*
+### *Mario in GZDoom* [Headshotnoby](https://www.youtube.com/@Headshotnoby/featured)
 
 https://github.com/headshot2017/gzdoom-sm64
 
@@ -237,4 +237,4 @@ https://www.reddit.com/r/SM64inOtherGames/
 Feel free to make a PR or issue if you have something to add
 here. Shoutout to [Saltydkdan](https://www.youtube.com/watch?v=5YwjSUdx0wg) for introducing me to libsm64; I still have no idea
 how this illuded me for over a year and got on the front page
-of Hacker News withouy me noticing.
+of Hacker News without me noticing.
