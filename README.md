@@ -237,4 +237,4 @@ https://www.reddit.com/r/SM64inOtherGames/
 Feel free to make a PR or issue if you have something to add
 here. Shoutout to [Saltydkdan](https://www.youtube.com/watch?v=5YwjSUdx0wg) for introducing me to libsm64; I still have no idea
 how this illuded me for over a year and got on the front page
-of Hacker News withouy me noticing.
+of Hacker News without me noticing.
