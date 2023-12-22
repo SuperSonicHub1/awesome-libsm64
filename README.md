@@ -108,7 +108,7 @@ https://github.com/Brawmario/libsm64-godot
 * [libsm64-godot-3D-Kinematic-Character-Demo](https://github.com/Brawmario/libsm64-godot-3D-Kinematic-Character-Demo)
 	* [Tweet demonstration](https://twitter.com/Brawmario/status/1521272859338944519)
 
-# Unreal Engine 5
+## Unreal Engine 5
 
 https://github.com/LunaRyuko/SMUE5
 
@@ -175,7 +175,7 @@ https://github.com/headshot2017/Classic64
 
 * [Release trailer](https://www.youtube.com/watch?v=rw1hbkJeqJQ)
 
-### *OpenLara SM64* by [Headshotnoby](https://www.youtube.com/@Headshotnoby)
+### *OpenLara* by [Headshotnoby](https://www.youtube.com/@Headshotnoby)
 
 https://github.com/headshot2017/OpenLara
 
@@ -187,13 +187,13 @@ https://github.com/headshot2017/OpenLara
 	* [Backwards long-jumpinng in *Tomb Raider 1*](https://www.youtube.com/watch?v=BIyfljf-qP0)
 	* [*Tomb Raider 2*](https://www.youtube.com/watch?v=-fM1_9LwO-Y)
 
-### *Mario in DDNet* by [Headshotnoby](https://www.youtube.com/@Headshotnoby)
+### *DDNet* by [Headshotnoby](https://www.youtube.com/@Headshotnoby)
 
 https://github.com/headshot2017/ddnet-sm64
 
 * [Demonstration video](https://www.reddit.com/r/SM64inOtherGames/comments/xz7w5a/mario_in_teeworlds_ddnet_sort_of/)
 
-### *Mario in GZDoom* by [Headshotnoby](https://www.youtube.com/@Headshotnoby)
+### *GZDoom* by [Headshotnoby](https://www.youtube.com/@Headshotnoby)
 
 https://github.com/headshot2017/gzdoom-sm64
 
@@ -202,6 +202,14 @@ https://github.com/headshot2017/gzdoom-sm64
 ![Mario standing at the beginning of E1M1](https://github.com/headshot2017/gzdoom-sm64/raw/master/screenshot.png)
 
 * [Gameplay video](https://www.youtube.com/watch?v=bEhT1GleNZo)
+
+### *Grand Theft Auto: San Andreas* by [Headshotnoby](https://www.youtube.com/@Headshotnoby)
+
+https://github.com/headshot2017/sm64-san-andreas
+
+> An ASI plugin for GTA San Andreas, which makes use of libsm64 to allow you to play as Mario from Super Mario 64.
+
+* [F3 2023 trailer](https://www.youtube.com/watch?v=AS86LTwcGcA)
 
 ## Applications
 
